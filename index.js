@@ -1,5 +1,5 @@
-```function theBeatlesPlay(musicians, instruments){
-  var array;
+function theBeatlesPlay(musicians, instruments){
+  var array = Array();
   for (let i = 0; i < musicians.length - 1; i++){
     array[i] = musicians[i] + " plays " + instruments[i];
   }
@@ -13,7 +13,7 @@ function johnLennonFacts(facts){
     i++;
   }
 }
-```
+
 function iLoveTheBeatles(number){
   var i = 0;
   do{
