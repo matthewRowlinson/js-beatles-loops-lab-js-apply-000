@@ -14,7 +14,7 @@ function johnLennonFacts(facts){
   }
   return facts;
 }
-```
+
 function iLoveTheBeatles(number){
   var i = 0;
   do{
@@ -22,5 +22,5 @@ function iLoveTheBeatles(number){
     i++;
   }
   while(i < 15);
+  return num
 }
-```
